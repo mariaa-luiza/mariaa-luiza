@@ -1,4 +1,4 @@
-## Olá, eu sou a Maria Luiza Fidalgo
+## Olá, eu sou a Maria Luiza Fidalgo!
 
 - 🔭 Estudante de engenharia de software!
 - 🌱 Atualmente estudando JavaScript!
